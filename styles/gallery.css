@@ -59,4 +59,8 @@ body{
 
 #images-lisbon img{
     width: 100px;
+    height: 150px;
+    padding: 15px;
+    margin-left: 150px;
+    margin-top: 20px;
 }
