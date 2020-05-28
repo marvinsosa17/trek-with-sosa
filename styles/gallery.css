@@ -1,0 +1,62 @@
+body{
+    margin: 0;
+}
+#header {
+    width: 100%;
+    height: 6px;
+    padding-bottom: 0;
+    background-color:#57A0D3;
+    margin-top: 0px;
+    margin-left: 0px;
+    padding: 0px;
+}
+
+
+.navbar {
+    overflow: hidden;
+    background-color: #57A0D3;
+}
+
+.navbar a:hover{
+    background-color: rgb(118, 235, 196);
+}
+
+.navbar a {
+    float: left;
+    font-size: 16px;
+    color: black;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+#pictures {
+    width: 100%;
+    height: 1000px;
+    border: 1px solid;
+    background-color: lightblue;
+}
+
+#location{
+    width: 100%;
+    height: 25px;
+    margin-bottom: 5px;
+    font-size: 20px;
+    text-align: center;
+ 
+}
+
+#lisbon{
+    width: 100%;
+    height: 75px;
+    margin-top: 0px;
+    padding: 0px;
+    background-position: center;
+    background-image: url(/images/Lisboa_banner.jpg);
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
+#images-lisbon img{
+    width: 100px;
+}
